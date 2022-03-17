@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 10px 5px;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    height: 50vh;
+    flex-direction: column;
+    align-items: center ;
+    justify-content: center 90pt;
+    gap: 0vh;
+}
+.button {
+    width: 80px;
+}
+h1 {
+    color: white;
+    margin: 80;
+    padding: 0;
+    position: relative;
+    
+
+
+}
+   
